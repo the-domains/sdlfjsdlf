@@ -1,0 +1,28 @@
+name: SDLFJSDLF
+favicon: null
+layout_spectrum: 0.8551605464890599
+typography_spectrum: 0.4134901494253427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3277322403155267
+  lightness: 0.05450381920672953
+  saturation: 0.5292854346334934
+  rhythmicContrast: 0.962536902865395
+purpose: []
